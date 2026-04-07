@@ -1,0 +1,7 @@
+{
+  "name": "Jyotish Vision",
+  "description": "A premium Vedic Astrology application providing detailed Birth (Lagna), Rashi (Moon), and Navamsha (D9) charts with AI-powered astronomical calculations and interpretations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
